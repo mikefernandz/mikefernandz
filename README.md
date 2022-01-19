@@ -4,12 +4,11 @@
   <h1>👋 Hello my name is Maikel Fernandez Alias ​​(⚔ϨϾ∆₹₣∆ϾƩ⚔)!   
     </a>
   </h1>
-
-Inglés
-
  <p> I am a developer of several languages <br />  
  <p> I am currently working on the world of walcraft emulator<br />  
-  <p>¡Bienvenido a mi GitHub!<br />  
+  <p>¡Welcome_GitHub!<br />  
+   <a href="https://www.linkedin.com/in/fmedeiros95" target="_blank">
+      <img align="right" alt="fmedeiros95-icon" height="150" style="border-radius: 50px;" src="https://user-images.githubusercontent.com/50658729/150192870-85e99bf3-1dfd-493a-928c-196dec858896.jpg">
    ![bfalogo](https://user-images.githubusercontent.com/50658729/150192870-85e99bf3-1dfd-493a-928c-196dec858896.jpg)
   <div style="display: inline_block">
     <h2>Linguagens e ferramentas que já trabalho e estudo:</h2>
