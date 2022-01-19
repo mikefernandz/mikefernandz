@@ -1,6 +1,6 @@
 
  <div style="display: inline_block;">
-  <h1>👋 hello my name is Maikel Fernandez Alias ​​(⚔ϨϾ∆₹₣∆ϾƩ⚔)!   
+  <h1>👋 Hello my name is Maikel Fernandez Alias ​​(⚔ϨϾ∆₹₣∆ϾƩ⚔)!   
     </a>
   </h1>
 
