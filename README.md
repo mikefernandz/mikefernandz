@@ -1,12 +1,13 @@
 
  <div style="display: inline_block;">
-  <h1>👋 hello my name is Maikel Fernandez Alias ​​()!   
+  <h1>👋 hello my name is Maikel Fernandez Alias ​​(◄◄⚔ϨϾ∆₹₣∆ϾƩ⚔►►)!   
     </a>
   </h1>
 
 Inglés
 
-hello my name is Maikel Fernandez Alias ​​(◄◄⚔ϨϾ∆₹₣∆ϾƩ⚔►►) I am a developer of several languages ​​and I am currently working on the world of walcraft emulator
+ <p> I am a developer of several languages <br />  
+ <p> I am currently working on the world of walcraft emulator<br />  
   <p>¡Bienvenido a mi GitHub!<br />  
   [https://user-images.githubusercontent.com/50658729/150192870-85e99bf3-1dfd-493a-928c-196dec858896.jpg][]
   <div style="display: inline_block">
