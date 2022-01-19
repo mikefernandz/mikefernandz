@@ -1,7 +1,6 @@
 
  <div style="display: inline_block;">
-  <h1>👋 Olá, eu me chamo Felipe Medeiros!
-      <img align="right" alt="fmedeiros95-icon" height="150" style="border-radius: 50px;" src="https://avatars.githubusercontent.com/u/18577429?s=400&u=ea5b2cb47f006f0976637f5f2517c529f41bb9b4&v=4">
+  <h1>👋 Olá, eu me chamo Felipe Medeiros!   
     </a>
   </h1>
 
