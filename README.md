@@ -1,20 +1,14 @@
 
  <div style="display: inline_block;">
-  <h1>👋 Olá, eu me chamo Felipe Medeiros!   
+  <h1>👋 hello my name is Maikel Fernandez Alias ​​()!   
     </a>
   </h1>
 
-  <p>Seja bem-vindo(a) ao meu GitHub!<br />
-  Aqui você encontrará meus projetos pessoais e repositórios públicos onde eu colaborei!<br />
-  Fique à vontade para explorar meus projetos e/ou me contatar se necessário!<br />
-  Meus contatos se encontram no menu à esquerda e no final deste documento!</p>
+Inglés
 
-  <p><b>Algumas coisas que estou fazendo atualmente:</b></p>
-  <ul style="list-style-type: none; margin: 0;">
-    <li>🔭 Atualmente trabalhando com desenvolvimento de Browser Games NFT.</li>
-    <li>🌱 Atualmente estou aprendendo Ruby e React JS.</li>
-  </ul>
-  
+hello my name is Maikel Fernandez Alias ​​(◄◄⚔ϨϾ∆₹₣∆ϾƩ⚔►►) I am a developer of several languages ​​and I am currently working on the world of walcraft emulator
+  <p>¡Bienvenido a mi GitHub!<br />  
+  [https://user-images.githubusercontent.com/50658729/150192870-85e99bf3-1dfd-493a-928c-196dec858896.jpg[]
   <div style="display: inline_block">
     <h2>Linguagens e ferramentas que já trabalho e estudo:</h2>
     <img align="center" alt="Medeiros-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
