@@ -16,7 +16,7 @@
     <img align="center" alt="mikefernandz-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
     <img align="center" alt="mikefernandz-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     <img align="center" alt="mikefernandz-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-   <img align="center" alt="mikefernandz-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-plain.svg">
+   <img align="center" alt="mikefernandz-c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-plain.svg">
     <img align="center" alt="mikefernandz-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="mikefernandz-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </div>
