@@ -25,7 +25,7 @@
   <a href="https://github.com/mikefernandz">
     <table style="border: none !important;" cellspacing="0" cellpadding="0">
       <tr style="border: none !important;">
-        <td style="border: none !important;"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikefernandz&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/></td>
+        <td style="border: none !important;"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikefernandz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/></td>
         <td style="border: none !important;"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikefernandz&layout=compact&langs_count=7&theme=monokai"/></td>
       </tr>
     </table>
