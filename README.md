@@ -20,18 +20,18 @@
     <img align="center" alt="mikefernandz-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </div>
 </div><br /><br />
-<!--
+
 <div align="center">
   <a href="https://github.com/mikefernandz">
     <table style="border: none !important;" cellspacing="0" cellpadding="0">
       <tr style="border: none !important;">
-        <td style="border: none !important;"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fmedeiros95&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/></td>
-        <td style="border: none !important;"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmedeiros95&layout=compact&langs_count=7&theme=monokai"/></td>
+        <td style="border: none !important;"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikefernandz&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/></td>
+        <td style="border: none !important;"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikefernandz&layout=compact&langs_count=7&theme=monokai"/></td>
       </tr>
     </table>
   </a>
 </div><br />
-
+<!--
 <div align="center"> 
   <a href="https://wa.me/5512982242643" target="_blank_"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.facebook.com/Medeiros95" target="_blank_"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
