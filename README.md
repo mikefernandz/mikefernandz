@@ -12,7 +12,7 @@
 
   <div style="display: inline_block">
     <h2>Languages ​​and tools that I already work and study:</h2>
-    <img align="center" alt="Medeiros-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+    <img align="center" alt="mikefernandz-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
     <img align="center" alt="Medeiros-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
     <img align="center" alt="Medeiros-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     <img align="center" alt="Medeiros-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
