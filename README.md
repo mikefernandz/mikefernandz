@@ -1,7 +1,7 @@
 
  <div style="display: inline_block;">
   </a>
-  <h1>👋 Hello my name is Maikel Fernandez Alias ​​(⚔ϨϾ∆₹₣∆ϾƩ⚔)!👋
+  <h1>👋 Hello my name is Maikel Fernandez Alias ​​(⚔ϨϾ∆₹₣∆ϾƩ⚔)!
     </a>
   </h1>
  <p> I am a developer of several languages <br />  
