@@ -18,6 +18,7 @@
     <img align="center" alt="mikefernandz-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">   
     <img align="center" alt="mikefernandz-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="mikefernandz-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+   <img align="center" alt="mikefernandz-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/c++-original.svg">
   </div>
 </div><br /><br />
 
