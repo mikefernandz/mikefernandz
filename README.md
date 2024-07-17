@@ -35,17 +35,16 @@
 
 <div><br>
   <a href="https://github.com/mikefernandz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipefmedeiros&show_icons=true&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikefernandz&show_icons=true&theme=merko"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefmedeiros&layout=compact&theme=merko"/>
 </div>
    
 <div align="center"> 
   <a href="https://wa.me/+5353716361" target="_blank_"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  <a href="mailto:maikelfernandez970724@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <!--   <a href="https://www.facebook.com/Medeiros95" target="_blank_"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://instagram.com/fmedeiros95" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
   
- <a href="https://www.linkedin.com/in/fmedeiros95" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 </div>
   -->
 
