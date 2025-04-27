@@ -26,6 +26,20 @@
   </ul>
 </div>
 
+<h2 align="center">🏆 Mis Medallas de Sololearn:</h2>
+<p align="center">🎖️ Aquí podrás ver mis medallas en Sololearn. ¡Cada una representa un paso más en mi viaje de aprendizaje y desarrollo!</p>
+<div align="center">
+  <a href="https://www.sololearn.com/Profile/7e413869-624d-4e4f-93ad-fc29e9c9c3e4" target="_blank">
+    <img src="https://www.sololearn.com/Logo/medal-7e413869.png" alt="Medalla Sololearn 1" height="60">
+  </a>
+  <a href="https://www.sololearn.com/Profile/CT-TDF2DD2A" target="_blank">
+    <img src="https://www.sololearn.com/Logo/medal-CT-TDF2DD2A.png" alt="Medalla Sololearn 2" height="60">
+  </a>
+  <a href="https://www.sololearn.com/Profile/CT-LLU685YX" target="_blank">
+    <img src="https://www.sololearn.com/Logo/medal-CT-LLU685YX.png" alt="Medalla Sololearn 3" height="60">
+  </a>
+</div>
+
 <h2 align="center">📱 Conéctate conmigo:</h2>
 <div align="center"> 
   <a href="https://wa.me/+5353716361" target="_blank">
@@ -38,3 +52,13 @@
 
 <h2 align="center">📍 Ubicación:</h2>
 <p align="center">🌎 Actualmente residenciado en Cuba 🇨🇺.</p>
+
+<h2 align="center">📊 Actividad de GitHub:</h2>
+<p align="center">Aquí te dejo un widget interactivo con mi actividad reciente en GitHub. ¡Échale un vistazo!</p>
+<div align="center">
+  <a href="https://github.com/mikefernandz">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mikefernandz&bg_color=000000&color=FFFFFF&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Actividad en GitHub" width="800" height="400">
+  </a>
+</div>
+
+
