@@ -23,6 +23,7 @@
     <li><a href="https://api2.sololearn.com/v2/certificates/CT-LLU685YX/image/pdf?t=638756656710820020" target="_blank">🔹 JavaScript (Sololearn)</a></li>
     <li><a href="https://api2.sololearn.com/v2/certificates/CT-VIHJ5HES/image/pdf?t=638756656710977190" target="_blank">🔹 Java (Sololearn)</a></li>
     <li><a href="https://api2.sololearn.com/v2/certificates/CC-QNFH80IC/image/pdf?t=638756656711671900" target="_blank">🔹 SQL (Sololearn)</a></li>
+    <li><a href="https://github.com/mikefernandz/mikefernandz/blob/main/IA%20Y%20PRODUCTIVIDAD.pdf" target="_blank">🔹 IA y Productividad por Google (Curso)</a></li>
   </ul>
 </div>
 
@@ -56,3 +57,4 @@
 
 <h2 align="center">📍 Ubicación:</h2>
 <p align="center">🌎 Actualmente residenciado en Cuba 🇨🇺.</p>
+
