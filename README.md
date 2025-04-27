@@ -18,25 +18,29 @@
 <p align="center">Estos son algunos de los certificados que respaldan mis habilidades y conocimientos en programación:</p>
 <div align="center">
   <ul>
-    <li><a href="https://blob.sololearn.com/certificates/7e413869-624d-4e4f-93ad-fc29e9c9c3e4.pdf" target="_blank">🔹 Certificación 1 - Fundamentos de Programación (Sololearn)</a></li>
-    <li><a href="https://api2.sololearn.com/v2/certificates/CT-TDF2DD2A/image/pdf?t=638756656710893990" target="_blank">🔹 Certificación 2 - Python Core (Sololearn)</a></li>
-    <li><a href="https://api2.sololearn.com/v2/certificates/CT-LLU685YX/image/pdf?t=638756656710820020" target="_blank">🔹 Certificación 3 - JavaScript (Sololearn)</a></li>
-    <li><a href="https://api2.sololearn.com/v2/certificates/CT-VIHJ5HES/image/pdf?t=638756656710977190" target="_blank">🔹 Certificación 4 - Java (Sololearn)</a></li>
-    <li><a href="https://api2.sololearn.com/v2/certificates/CC-QNFH80IC/image/pdf?t=638756656711671900" target="_blank">🔹 Certificación 5 - SQL (Sololearn)</a></li>
+    <li><a href="https://blob.sololearn.com/certificates/7e413869-624d-4e4f-93ad-fc29e9c9c3e4.pdf" target="_blank">🔹 Fundamentos de Programación (Sololearn)</a></li>
+    <li><a href="https://api2.sololearn.com/v2/certificates/CT-TDF2DD2A/image/pdf?t=638756656710893990" target="_blank">🔹 Python Core (Sololearn)</a></li>
+    <li><a href="https://api2.sololearn.com/v2/certificates/CT-LLU685YX/image/pdf?t=638756656710820020" target="_blank">🔹 JavaScript (Sololearn)</a></li>
+    <li><a href="https://api2.sololearn.com/v2/certificates/CT-VIHJ5HES/image/pdf?t=638756656710977190" target="_blank">🔹 Java (Sololearn)</a></li>
+    <li><a href="https://api2.sololearn.com/v2/certificates/CC-QNFH80IC/image/pdf?t=638756656711671900" target="_blank">🔹 SQL (Sololearn)</a></li>
   </ul>
 </div>
 
-<h2 align="center">🏆 Mis Medallas de Sololearn:</h2>
-<p align="center">🎖️ Aquí podrás ver mis medallas en Sololearn. ¡Cada una representa un paso más en mi viaje de aprendizaje y desarrollo!</p>
+<h2 align="center">📊 Mis Contribuciones y Actividad:</h2>
+<p align="center">Echa un vistazo a mis contribuciones más recientes en GitHub. Aquí puedes ver cómo participo en proyectos y contribuyo a la comunidad.</p>
 <div align="center">
-  <a href="https://www.sololearn.com/Profile/7e413869-624d-4e4f-93ad-fc29e9c9c3e4" target="_blank">
-    <img src="https://www.sololearn.com/Logo/medal-7e413869.png" alt="Medalla Sololearn 1" height="60">
+  <a href="https://github.com/mikefernandz">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mikefernandz&bg_color=000000&color=FFFFFF&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Actividad en GitHub" width="800" height="400">
   </a>
-  <a href="https://www.sololearn.com/Profile/CT-TDF2DD2A" target="_blank">
-    <img src="https://www.sololearn.com/Logo/medal-CT-TDF2DD2A.png" alt="Medalla Sololearn 2" height="60">
+</div>
+
+<h2 align="center">🌐 Proyectos Destacados:</h2>
+<div align="center">
+  <a href="https://github.com/mikefernandz/WorldOfWarcraftEmulator" target="_blank">
+    <img src="https://img.shields.io/badge/Emulador_WoW-FF5733?style=for-the-badge&logo=world-of-warcraft&logoColor=white" alt="Emulador WoW">
   </a>
-  <a href="https://www.sololearn.com/Profile/CT-LLU685YX" target="_blank">
-    <img src="https://www.sololearn.com/Logo/medal-CT-LLU685YX.png" alt="Medalla Sololearn 3" height="60">
+  <a href="https://github.com/mikefernandz/Proyecto2" target="_blank">
+    <img src="https://img.shields.io/badge/Proyecto2-3498DB?style=for-the-badge&logo=python&logoColor=white" alt="Proyecto 2">
   </a>
 </div>
 
@@ -52,13 +56,3 @@
 
 <h2 align="center">📍 Ubicación:</h2>
 <p align="center">🌎 Actualmente residenciado en Cuba 🇨🇺.</p>
-
-<h2 align="center">📊 Actividad de GitHub:</h2>
-<p align="center">Aquí te dejo un widget interactivo con mi actividad reciente en GitHub. ¡Échale un vistazo!</p>
-<div align="center">
-  <a href="https://github.com/mikefernandz">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mikefernandz&bg_color=000000&color=FFFFFF&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Actividad en GitHub" width="800" height="400">
-  </a>
-</div>
-
-
