@@ -2,10 +2,6 @@
   <h1>👨‍💻 ¡Hola, soy Maikel Fernández! (⚔ϨϾ∆₹₣∆ϾƩ⚔)</h1>
   <p>👋 Soy un desarrollador apasionado con experiencia en múltiples lenguajes de programación y tecnologías. Actualmente, estoy trabajando en un <strong>emulador de World of Warcraft</strong>, mejorando características de juego y optimizando la experiencia.</p>
   <p>🚀 ¡Bienvenido a mi perfil de GitHub! Aquí podrás encontrar mis proyectos, mi evolución y mis logros en el mundo del desarrollo. No dudes en explorar y conectarte conmigo.</p>
-
-  <a href="https://www.linkedin.com/in/mikefernandz" target="_blank">
-    <img align="right" alt="Maikel's photo" height="150" style="border-radius: 50px;" src="https://user-images.githubusercontent.com/50658729/150192870-85e99bf3-1dfd-493a-928c-196dec858896.jpg">
-  </a>
 </div>
 
 <h2 align="center">🔧 Tecnologías con las que trabajo:</h2>
@@ -28,16 +24,6 @@
     <li><a href="https://api2.sololearn.com/v2/certificates/CT-VIHJ5HES/image/pdf?t=638756656710977190" target="_blank">🔹 Certificación 4 - Java (Sololearn)</a></li>
     <li><a href="https://api2.sololearn.com/v2/certificates/CC-QNFH80IC/image/pdf?t=638756656711671900" target="_blank">🔹 Certificación 5 - SQL (Sololearn)</a></li>
   </ul>
-</div>
-
-<h2 align="center">📊 Mis Estadísticas en GitHub:</h2>
-<div align="center">
-  <a href="https://github.com/mikefernandz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikefernandz&show_icons=true&theme=merko"/>
-  </a>
-  <a href="https://github.com/mikefernandz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikefernandz&layout=compact&theme=merko"/>
-  </a>
 </div>
 
 <h2 align="center">📱 Conéctate conmigo:</h2>
